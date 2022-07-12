@@ -1,1 +1,4 @@
 1. Learn HTML
+2. Make a github account
+3. Push your repo to github
+4. Learn to create branches 
