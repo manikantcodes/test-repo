@@ -6,3 +6,5 @@
 // Created a branch.
 
 5. Push this branch to github
+6. See git graph plugin
+7. Summarize all that you have learned
