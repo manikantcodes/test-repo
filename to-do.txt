@@ -1,4 +1,8 @@
 1. Learn HTML
-2. Make a github account
-3. Push your repo to github
-4. Learn to create branches 
+2. Make a github account (OK)
+3. Push your repo to github (OK)
+4. Learn to create branches (OK)
+
+// Created a branch.
+
+5. Push this branch to github
