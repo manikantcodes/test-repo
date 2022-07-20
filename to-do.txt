@@ -6,3 +6,5 @@
 // Created a branch.
 
 5. Push this branch to github
+
+6. Practice Git Commands
